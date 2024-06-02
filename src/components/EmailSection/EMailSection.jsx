@@ -1,8 +1,8 @@
 "use client";
 import Link from "next/link";
 
-import { Github } from "../../../public/icons/Github";
-import { Linkedin } from "../../../public/icons/Linkedin";
+import { Github } from "../icons/Github";
+import { Linkedin } from "../icons/Linkedin";
 import { useState } from "react";
 
 export const EmailSection = () => {

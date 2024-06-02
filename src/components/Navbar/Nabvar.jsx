@@ -9,15 +9,15 @@ import Image from "next/image";
 const navLinks = [
   {
     title: "Home",
-    path: "/home",
+    path: "#home",
   },
   {
     title: "About",
-    path: "/about",
+    path: "#about",
   },
   {
     title: "Contact",
-    path: "/contact",
+    path: "#contact",
   },
 ];
 
