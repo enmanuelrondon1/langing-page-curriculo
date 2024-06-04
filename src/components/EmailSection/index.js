@@ -1,1 +1,1 @@
-// export * from './EMailSection'
+export * from "./Footer2";
