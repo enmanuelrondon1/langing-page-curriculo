@@ -4,7 +4,7 @@ import { AchievementsSection } from "../components/AchievementsSection";
 import { AboutSection } from "../components/AboutSection";
 import { ProjectSection } from "../components/ProjectSection";
 import { Footer } from "../components/Footer";
-import {Footer2} from '../components/EmailSection'
+import {EmailSection} from '../components/EmailSection'
 
 export default function Home() {
   return (
@@ -15,7 +15,7 @@ export default function Home() {
         <AchievementsSection />
         <AboutSection />
         <ProjectSection />
-        <Footer2 />
+        <EmailSection />
       </div>
 
         <Footer />

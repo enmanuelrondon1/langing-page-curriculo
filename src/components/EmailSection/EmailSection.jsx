@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Github } from "../icons/Github";
 import { Linkedin } from "../icons/Linkedin";
 
-export const Footer2 = () => {
+export const EmailSection = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
